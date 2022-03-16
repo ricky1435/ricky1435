@@ -1,4 +1,4 @@
-# Hello Everyone. Welcome to my Github Profile.
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ruthvik PVS]
 
 ## All my personal projects can be found on my profile.
 
